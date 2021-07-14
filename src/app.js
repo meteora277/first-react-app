@@ -6,13 +6,11 @@ function App() {
 
     return (
         <div>
-           
+            <h1>Uwu</h1>
             <List/>
         </div>
        
     )
-
-  
 
 }
 
