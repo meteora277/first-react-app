@@ -1,17 +1,18 @@
 import React from "react"
-import List from './list'
-
+import Card from "./Card"
+import tower from "./tower.jpg"
 
 function App() {
 
     return (
         <div>
-            <h1>Uwu</h1>
-            <List/>
+            <Card uwu={tower}/>
+            
         </div>
-       
     )
 
 }
+
+
 
 export default App
